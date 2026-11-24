@@ -10,11 +10,9 @@ work, and designing software before writing it.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-6E4C9E?style=for-the-badge)
 
-- **Computer science:** data structures and algorithms, operating systems, computer networks, concurrency
+- **Computer science:** data structures and algorithms, operating systems, concurrency
 - **Software design:** systems analysis, UML, requirements, testing
 
 ## Projects
