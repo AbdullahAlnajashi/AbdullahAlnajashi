@@ -1,8 +1,8 @@
 ![Abdullah Alnajashi: Information Systems, King Saud University](assets/banner.png)
 
-Information Systems student at **King Saud University** in Riyadh. I like building systems from
-the ground up (network proxies, OS schedulers, data structures) to understand how they really
-work, and designing software before writing it.
+Information Systems student at **King Saud University** in Riyadh. I build software from the
+ground up (OS schedulers, data structures, demand forecasting tools) to understand how it really
+works, and I design systems before writing them.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Alnajashi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-alnajashi-37109039b/)
 
